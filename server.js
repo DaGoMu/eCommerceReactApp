@@ -50,3 +50,11 @@ app.listen(PORT, () => {
     `Server running on ${process.env.DEV_MODE} mode on ${PORT}`.bgCyan.white
   );
 });
+
+connectDB().then(() => {
+  app.listen(PORT, () => {
+    console.log(
+      `Server running on ${process.env.DEV_MODE} mode on ${PORT}`.bgCyan.white
+    );
+  });
+});
