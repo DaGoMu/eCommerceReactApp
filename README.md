@@ -80,7 +80,7 @@ API: https://ecommerceapp-l4g2-api.onrender.com/
 
 
 ## Testing
-    Se puede registrar un usuario nuevo (no usar datos reales o personales) O se puede usar alguno de los siguientes:
+
     You can register as a new user (don't use real or personal data). Or you may use any of these:
 
     User: test@user.com
