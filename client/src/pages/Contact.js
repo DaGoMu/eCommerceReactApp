@@ -28,7 +28,7 @@ const Contact = () => {
           <div className="border border-dark rounded d-sm-flex flex-column ">
             <a
               className="p-2"
-              href="https://github.com/DaGoMu/eCommerce-Project-Test"
+              href="https://github.com/DaGoMu/eCommerceReactApp"
             >
               <IconContext.Provider value={{ size: 50 }}>
                 <BsGithub /> My Github
